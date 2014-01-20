@@ -1,0 +1,518 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2014-01-20T10:18:55.801Z] GhostDriver - Main - running on port 50469
+[INFO  - 2014-01-20T10:18:56.725Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - _decorateNewWindow - page.settings: {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.2 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2014-01-20T10:18:56.725Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - page.customHeaders:  - {}
+[INFO  - 2014-01-20T10:18:56.725Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - CONSTRUCTOR - Desired Capabilities: {"platform":"ANY","browserName":"phantomjs","version":"","javascriptEnabled":true}
+[INFO  - 2014-01-20T10:18:56.725Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.2","driverName":"ghostdriver","driverVersion":"1.0.4","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2014-01-20T10:18:56.725Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 45445df0-81bc-11e3-816b-71ed084a5a2d
+[INFO  - 2014-01-20T10:21:36.964Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:26:37.062Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:31:37.140Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:36:37.237Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:31:14.198Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:36:14.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+me: 1390213247663
+[ERROR - 2014-01-20T10:20:48.404Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop[INFO  - 2014-01-20T10:25:13.142Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:30:13.239Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:35:13.334Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:40:13.351Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[IN[INFO  - 2014-01-20T10:27:26.444Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting N[IN[INFO  - 2014-01-20T10:32:26.541Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting N[IN[INFO  - 2014-01-20T10:37:26.623Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting N[INFO  - 2014-01-20T10:38:21.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:39:49.035Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Found: GAVE UP. Search Stop Time: 1390213280622
+[ERROR - 2014-01-20T10:21:21.369Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213281349
+[ERROR - 2014-01-20T10:21:22.090Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213282069
+[ERROR - 2014-01-20T10:21:22.822Z] WebElementLocator - _handleLocateCommand - Elemen[INFO  - 2014-01-20T10:23:22.521Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:28:22.618Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:33:22.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2014-01-20T10:38:22.813Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213305184
+[ERROR - 2014-01-20T10:21:45.926Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213305903
+[ERROR - 2014-01-20T10:21:46.652Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213306626
+[ERROR - 2014-01-20T10:22:09.351Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/132417/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:22:09.351Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/132417/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:22:17.890Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213337874
+[ERROR - 2014-01-20T10:22:21.919Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213341901
+[ERROR - 2014-01-20T10:22:26.048Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213346033
+[ERROR - 2014-01-20T10:22:29.008Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213348983
+[ERROR - 2014-01-20T10:22:33.415Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213353396
+[ERROR - 2014-01-20T10:22:37.884Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213357867
+[ERROR - 2014-01-20T10:22:38.787Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213358764
+[ERROR - 2014-01-20T10:22:39.675Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213359661
+[ERROR - 2014-01-20T10:22:40.558Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213360544
+[ERROR - 2014-01-20T10:22:55.401Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213375375
+[ERROR - 2014-01-20T10:22:56.313Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213376299
+[ERROR - 2014-01-20T10:22:57.225Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213377203
+[ERROR - 2014-01-20T10:22:58.142Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213378112
+[ERROR - 2014-01-20T10:23:06.006Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213385985
+[ERROR - 2014-01-20T10:23:06.921Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213386897
+[ERROR - 2014-01-20T10:23:07.834Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213387809
+[ERROR - 2014-01-20T10:23:08.749Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213388723
+[ERROR - 2014-01-20T10:23:29.951Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213409933
+[ERROR - 2014-01-20T10:23:30.844Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213410828
+[ERROR - 2014-01-20T10:23:31.737Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213411714
+[ERROR - 2014-01-20T10:23:32.629Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213412614
+[ERROR - 2014-01-20T10:23:40.257Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213420235
+[ERROR - 2014-01-20T10:23:42.621Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213422598
+[ERROR - 2014-01-20T10:23:45.318Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213425298
+[ERROR - 2014-01-20T10:23:55.291Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213435263
+[INFO  - 2014-01-20T10:23:55.800Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-01-20T10:23:56.186Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213436157
+[ERROR - 2014-01-20T10:23:57.061Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213437041
+[ERROR - 2014-01-20T10:23:57.944Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213437917
+[ERROR - 2014-01-20T10:24:17.891Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213457877
+[ERROR - 2014-01-20T10:24:20.562Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213460540
+[ERROR - 2014-01-20T10:24:26.347Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213466327
+[ERROR - 2014-01-20T10:24:27.114Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213467085
+[ERROR - 2014-01-20T10:24:27.884Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213467863
+[ERROR - 2014-01-20T10:24:28.662Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213468638
+[ERROR - 2014-01-20T10:24:34.968Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213474950
+[ERROR - 2014-01-20T10:24:35.729Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213475715
+[ERROR - 2014-01-20T10:24:36.492Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213476477
+[ERROR - 2014-01-20T10:24:37.257Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213477239
+[ERROR - 2014-01-20T10:24:54.235Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213494213
+[ERROR - 2014-01-20T10:25:06.442Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213506422
+[ERROR - 2014-01-20T10:25:07.218Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213507190
+[ERROR - 2014-01-20T10:25:07.989Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213507965
+[ERROR - 2014-01-20T10:25:08.757Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213508735
+[ERROR - 2014-01-20T10:25:11.628Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213511603
+[ERROR - 2014-01-20T10:25:13.121Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/73932/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:25:13.121Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/73932/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:25:14.422Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213514401
+[ERROR - 2014-01-20T10:25:23.899Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213523872
+[ERROR - 2014-01-20T10:25:27.201Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213527184
+[ERROR - 2014-01-20T10:25:33.189Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213533163
+[ERROR - 2014-01-20T10:25:33.958Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213533940
+[ERROR - 2014-01-20T10:25:34.724Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213534704
+[ERROR - 2014-01-20T10:25:35.493Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213535473
+[ERROR - 2014-01-20T10:25:44.045Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213544016
+[ERROR - 2014-01-20T10:25:44.843Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213544822
+[ERROR - 2014-01-20T10:25:45.620Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213545602
+[ERROR - 2014-01-20T10:25:46.373Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213546355
+[ERROR - 2014-01-20T10:25:50.169Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213550154
+[ERROR - 2014-01-20T10:25:55.397Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213555382
+[ERROR - 2014-01-20T10:25:59.263Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213559237
+[ERROR - 2014-01-20T10:26:01.938Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213561923
+[ERROR - 2014-01-20T10:26:05.385Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213565360
+[ERROR - 2014-01-20T10:26:08.069Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213568054
+[ERROR - 2014-01-20T10:26:11.039Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213571016
+[ERROR - 2014-01-20T10:26:13.997Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213573982
+[ERROR - 2014-01-20T10:26:16.921Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213576895
+[ERROR - 2014-01-20T10:26:21.723Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213581708
+[ERROR - 2014-01-20T10:26:24.309Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213584286
+[ERROR - 2014-01-20T10:26:27.584Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213587568
+[ERROR - 2014-01-20T10:26:29.661Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213589639
+[ERROR - 2014-01-20T10:26:33.822Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213593805
+[ERROR - 2014-01-20T10:26:42.741Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213602722
+[ERROR - 2014-01-20T10:26:45.427Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213605405
+[ERROR - 2014-01-20T10:26:55.510Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213615492
+[ERROR - 2014-01-20T10:26:59.436Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213619420
+[ERROR - 2014-01-20T10:27:01.868Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213621851
+[ERROR - 2014-01-20T10:27:08.217Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213628197
+[ERROR - 2014-01-20T10:27:33.621Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/102380/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:27:33.621Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/102380/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:27:43.732Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213663717
+[ERROR - 2014-01-20T10:27:49.669Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213669647
+[ERROR - 2014-01-20T10:28:26.362Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213706341
+[ERROR - 2014-01-20T10:28:31.077Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213711059
+[ERROR - 2014-01-20T10:28:37.195Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213717177
+[ERROR - 2014-01-20T10:28:44.786Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213724762
+[ERROR - 2014-01-20T10:28:49.398Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213729371
+[ERROR - 2014-01-20T10:28:52.111Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213732084
+[ERROR - 2014-01-20T10:28:55.291Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213735277
+[INFO  - 2014-01-20T10:28:55.799Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-01-20T10:28:59.655Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213739635
+[ERROR - 2014-01-20T10:29:05.362Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213745341
+[ERROR - 2014-01-20T10:29:10.490Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213750472
+[ERROR - 2014-01-20T10:29:15.608Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213755581
+[ERROR - 2014-01-20T10:29:23.788Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213763760
+[ERROR - 2014-01-20T10:29:26.528Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213766512
+[ERROR - 2014-01-20T10:29:29.373Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213769359
+[ERROR - 2014-01-20T10:29:32.594Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213772580
+[ERROR - 2014-01-20T10:29:44.452Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/93962/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:29:44.453Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/93962/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:29:45.045Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213785024
+[ERROR - 2014-01-20T10:30:27.400Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/14859/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:30:27.401Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/14859/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:30:28.449Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213828427
+[ERROR - 2014-01-20T10:30:34.209Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213834182
+[ERROR - 2014-01-20T10:30:36.213Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213836191
+[ERROR - 2014-01-20T10:30:38.876Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213838852
+[ERROR - 2014-01-20T10:30:44.547Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213844527
+[ERROR - 2014-01-20T10:30:55.098Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213855075
+[ERROR - 2014-01-20T10:30:58.830Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213858815
+[ERROR - 2014-01-20T10:31:00.797Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213860778
+[ERROR - 2014-01-20T10:31:03.246Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213863218
+[ERROR - 2014-01-20T10:31:06.196Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213866174
+[ERROR - 2014-01-20T10:31:10.239Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213870223
+[ERROR - 2014-01-20T10:31:17.583Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213877568
+[ERROR - 2014-01-20T10:31:29.227Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213889199
+[ERROR - 2014-01-20T10:31:31.453Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213891439
+[ERROR - 2014-01-20T10:31:37.971Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213897956
+[ERROR - 2014-01-20T10:31:56.265Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213916248
+[ERROR - 2014-01-20T10:32:02.669Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213922646
+[ERROR - 2014-01-20T10:32:04.550Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213924528
+[ERROR - 2014-01-20T10:32:09.738Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213929723
+[ERROR - 2014-01-20T10:32:16.065Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213936040
+[ERROR - 2014-01-20T10:32:18.632Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213938613
+[ERROR - 2014-01-20T10:32:47.386Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213967369
+[ERROR - 2014-01-20T10:32:50.074Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:32:50.074Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:32:50.075Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:32:50.075Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:32:50.089Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:32:50.090Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:32:50.465Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:32:50.465Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part4.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:32:54.998Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213974970
+[ERROR - 2014-01-20T10:32:55.732Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213975716
+[ERROR - 2014-01-20T10:32:56.467Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213976445
+[ERROR - 2014-01-20T10:32:57.189Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213977175
+[ERROR - 2014-01-20T10:32:57.920Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213977901
+[ERROR - 2014-01-20T10:33:01.632Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213981606
+[ERROR - 2014-01-20T10:33:08.995Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213988970
+[ERROR - 2014-01-20T10:33:16.973Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:16.973Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:16.974Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:16.975Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:16.979Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:16.979Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:19.040Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:19.040Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part2.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:22.393Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214002377
+[ERROR - 2014-01-20T10:33:23.140Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214003117
+[ERROR - 2014-01-20T10:33:23.948Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214003927
+[ERROR - 2014-01-20T10:33:24.677Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214004653
+[ERROR - 2014-01-20T10:33:26.862Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:26.863Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:26.863Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:26.863Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:26.864Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:26.864Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:26.865Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:26.865Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part3.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:36.238Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214016209
+[ERROR - 2014-01-20T10:33:36.979Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214016953
+[ERROR - 2014-01-20T10:33:37.716Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214017685
+[ERROR - 2014-01-20T10:33:38.437Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214018423
+[ERROR - 2014-01-20T10:33:39.162Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214019143
+[ERROR - 2014-01-20T10:33:42.914Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214022892
+[ERROR - 2014-01-20T10:33:44.728Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:44.728Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:44.730Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:44.730Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:44.730Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:44.731Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:44.731Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:33:44.731Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/yellow/part5.php' - Console Error (stack): []
+[ERROR - 2014-01-20T10:33:50.938Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214030915
+[ERROR - 2014-01-20T10:33:51.680Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214031659
+[ERROR - 2014-01-20T10:33:52.413Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214032391
+[ERROR - 2014-01-20T10:33:53.143Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214033119
+[ERROR - 2014-01-20T10:33:53.878Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214033853
+[INFO  - 2014-01-20T10:33:55.800Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-01-20T10:34:07.877Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214047850
+[ERROR - 2014-01-20T10:34:22.774Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214062753
+[ERROR - 2014-01-20T10:34:26.013Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214065996
+[ERROR - 2014-01-20T10:34:36.262Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214076240
+[ERROR - 2014-01-20T10:34:41.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214081228
+[ERROR - 2014-01-20T10:34:47.051Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214087035
+[ERROR - 2014-01-20T10:35:06.382Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214106360
+[ERROR - 2014-01-20T10:35:26.930Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214126910
+[ERROR - 2014-01-20T10:35:38.809Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214138791
+[ERROR - 2014-01-20T10:36:02.196Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214162181
+[ERROR - 2014-01-20T10:36:02.932Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part3.php' - Console Error (msg): ReferenceError: Can't find variable: ns6
+[ERROR - 2014-01-20T10:36:02.933Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part3.php' - Console Error (stack): [
+  {
+    "file": "http://videos.desihome.info/daily/actionr/part3.php",
+    "line": 121,
+    "function": ""
+  }
+]
+[ERROR - 2014-01-20T10:36:09.621Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214169601
+[ERROR - 2014-01-20T10:36:10.377Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214170354
+[ERROR - 2014-01-20T10:36:11.126Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214171107
+[ERROR - 2014-01-20T10:36:11.887Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214171859
+[ERROR - 2014-01-20T10:36:17.540Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214177517
+[ERROR - 2014-01-20T10:36:21.932Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214181911
+[ERROR - 2014-01-20T10:36:24.737Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214184716
+[ERROR - 2014-01-20T10:36:29.962Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214189945
+[ERROR - 2014-01-20T10:36:30.655Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part7.php' - Console Error (msg): ReferenceError: Can't find variable: ns6
+[ERROR - 2014-01-20T10:36:30.655Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part7.php' - Console Error (stack): [
+  {
+    "file": "http://videos.desihome.info/daily/actionr/part7.php",
+    "line": 121,
+    "function": ""
+  }
+]
+[ERROR - 2014-01-20T10:36:37.298Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214197273
+[ERROR - 2014-01-20T10:36:38.059Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214198034
+[ERROR - 2014-01-20T10:36:38.817Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214198790
+[ERROR - 2014-01-20T10:36:39.582Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214199550
+[ERROR - 2014-01-20T10:36:40.770Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part1.php' - Console Error (msg): ReferenceError: Can't find variable: ns6
+[ERROR - 2014-01-20T10:36:40.770Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part1.php' - Console Error (stack): [
+  {
+    "file": "http://videos.desihome.info/daily/actionr/part1.php",
+    "line": 121,
+    "function": ""
+  }
+]
+[ERROR - 2014-01-20T10:36:45.887Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214205859
+[ERROR - 2014-01-20T10:36:46.637Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214206621
+[ERROR - 2014-01-20T10:36:47.395Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214207371
+[ERROR - 2014-01-20T10:36:48.151Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214208126
+[ERROR - 2014-01-20T10:36:51.062Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214211039
+[ERROR - 2014-01-20T10:36:54.047Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part2.php' - Console Error (msg): ReferenceError: Can't find variable: ns6
+[ERROR - 2014-01-20T10:36:54.047Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part2.php' - Console Error (stack): [
+  {
+    "file": "http://videos.desihome.info/daily/actionr/part2.php",
+    "line": 121,
+    "function": ""
+  }
+]
+[ERROR - 2014-01-20T10:36:59.437Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214219410
+[ERROR - 2014-01-20T10:37:00.200Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214220172
+[ERROR - 2014-01-20T10:37:00.948Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214220927
+[ERROR - 2014-01-20T10:37:01.690Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214221676
+[ERROR - 2014-01-20T10:37:04.569Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214224547
+[ERROR - 2014-01-20T10:37:06.036Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/50600/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:37:06.037Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/50600/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:37:07.219Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214227200
+[ERROR - 2014-01-20T10:37:09.560Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/99381/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:37:09.560Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/99381/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:37:14.805Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214234782
+[ERROR - 2014-01-20T10:37:15.553Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part6.php' - Console Error (msg): ReferenceError: Can't find variable: ns6
+[ERROR - 2014-01-20T10:37:15.553Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part6.php' - Console Error (stack): [
+  {
+    "file": "http://videos.desihome.info/daily/actionr/part6.php",
+    "line": 121,
+    "function": ""
+  }
+]
+[ERROR - 2014-01-20T10:37:17.795Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214237779
+[ERROR - 2014-01-20T10:37:18.549Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214238525
+[ERROR - 2014-01-20T10:37:19.304Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214239283
+[ERROR - 2014-01-20T10:37:20.061Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214240038
+[ERROR - 2014-01-20T10:37:22.518Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214242490
+[ERROR - 2014-01-20T10:37:24.143Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214244123
+[ERROR - 2014-01-20T10:37:25.065Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214245044
+[ERROR - 2014-01-20T10:37:25.979Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214245962
+[ERROR - 2014-01-20T10:37:26.922Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214246895
+[ERROR - 2014-01-20T10:37:29.918Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214249897
+[ERROR - 2014-01-20T10:37:33.107Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214253088
+[ERROR - 2014-01-20T10:37:36.186Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214256158
+[ERROR - 2014-01-20T10:37:38.212Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part4.php' - Console Error (msg): ReferenceError: Can't find variable: ns6
+[ERROR - 2014-01-20T10:37:38.213Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://videos.desihome.info/daily/actionr/part4.php' - Console Error (stack): [
+  {
+    "file": "http://videos.desihome.info/daily/actionr/part4.php",
+    "line": 121,
+    "function": ""
+  }
+]
+[ERROR - 2014-01-20T10:37:44.711Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214264694
+[ERROR - 2014-01-20T10:37:45.470Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214265445
+[ERROR - 2014-01-20T10:37:46.224Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214266204
+[ERROR - 2014-01-20T10:37:46.977Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214266956
+[ERROR - 2014-01-20T10:37:55.426Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214275404
+[ERROR - 2014-01-20T10:37:57.804Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214277779
+[ERROR - 2014-01-20T10:38:00.570Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214280552
+[ERROR - 2014-01-20T10:38:08.479Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/150196/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:38:08.479Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/150196/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:38:14.990Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214294974
+[ERROR - 2014-01-20T10:38:15.881Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214295862
+[ERROR - 2014-01-20T10:38:16.982Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214296959
+[ERROR - 2014-01-20T10:38:17.913Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214297894
+[ERROR - 2014-01-20T10:38:22.505Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/150195/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:38:22.505Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/150195/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:38:50.714Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/47694/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:38:50.714Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/47694/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:38:51.091Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214331074
+[INFO  - 2014-01-20T10:38:55.799Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-01-20T10:39:17.065Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214357051
+[ERROR - 2014-01-20T10:39:18.559Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/95443/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:39:18.560Z] Session [45445df0-81bc-11e3-816b-71ed084a5a2d] - Page at 'http://www.filmshowonline.net/videos/95443/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:39:20.030Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214360014
+[ERROR - 2014-01-20T10:39:31.170Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214371155
+[ERROR - 2014-01-20T10:39:33.798Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214373770
+[ERROR - 2014-01-20T10:39:46.720Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214386699
+[ERROR - 2014-01-20T10:40:10.806Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214410779
+[ERROR - 2014-01-20T10:40:18.439Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214418421
+[ERROR - 2014-01-20T10:40:23.023Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214422990
+[ERROR - 2014-01-20T10:40:25.774Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214425755
+[ERROR - 2014-01-20T10:40:27.214Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214427195
+[ERROR - 2014-01-20T10:40:28.106Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214428083
+[ERROR - 2014-01-20T10:40:29.038Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214429019
+ent(s) NOT Found: GAVE UP. Search Stop Time: 1390213743250
+[ERROR - 2014-01-20T10:29:05.339Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213745312
+[ERROR - 2014-01-20T10:29:08.113Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213748085
+[ERROR - 2014-01-20T10:29:13.003Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213752978
+[ERROR - 2014-01-20T10:29:14.133Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://videos.desihome.info/daily/actionr/part6.php' - Console Error (msg): ReferenceError: Can't find variable: ns6
+[ERROR - 2014-01-20T10:29:14.134Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://videos.desihome.info/daily/actionr/part6.php' - Console Error (stack): [
+  {
+    "file": "http://videos.desihome.info/daily/actionr/part6.php",
+    "line": 121,
+    "function": ""
+  }
+]
+[ERROR - 2014-01-20T10:29:20.983Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213760954
+[ERROR - 2014-01-20T10:29:21.740Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213761715
+[ERROR - 2014-01-20T10:29:22.500Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213762472
+[ERROR - 2014-01-20T10:29:23.251Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213763231
+[ERROR - 2014-01-20T10:29:30.543Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213770524
+[ERROR - 2014-01-20T10:29:56.440Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/129792/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:29:56.441Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/129792/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:30:39.402Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/106280/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:30:39.402Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/106280/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:30:44.780Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213844753
+[ERROR - 2014-01-20T10:30:53.042Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213853020
+[ERROR - 2014-01-20T10:30:55.807Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213855783
+[ERROR - 2014-01-20T10:30:58.702Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213858674
+[ERROR - 2014-01-20T10:31:01.475Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213861451
+[ERROR - 2014-01-20T10:31:09.275Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213869251
+[ERROR - 2014-01-20T10:31:13.866Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213873846
+[ERROR - 2014-01-20T10:31:21.481Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213881453
+[ERROR - 2014-01-20T10:31:33.227Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213893202
+[ERROR - 2014-01-20T10:31:37.259Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213897232
+[ERROR - 2014-01-20T10:31:50.705Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213910675
+[ERROR - 2014-01-20T10:31:53.603Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213913575
+[ERROR - 2014-01-20T10:31:56.511Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213916484
+[INFO  - 2014-01-20T10:31:59.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-01-20T10:32:01.951Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213921931
+[ERROR - 2014-01-20T10:32:04.710Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213924691
+[ERROR - 2014-01-20T10:32:08.538Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213928502
+[ERROR - 2014-01-20T10:32:10.487Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213930468
+[ERROR - 2014-01-20T10:32:11.458Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213931436
+[ERROR - 2014-01-20T10:32:12.378Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213932363
+[ERROR - 2014-01-20T10:32:13.355Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213933335
+[ERROR - 2014-01-20T10:32:17.184Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213937162
+[ERROR - 2014-01-20T10:32:19.953Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213939928
+[ERROR - 2014-01-20T10:32:22.672Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/147159/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:32:22.673Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/147159/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:32:29.668Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://videos.desihome.info/stream/barfi/part6.php' - Console Error (msg): TypeError: 'null' is not an object (evaluating 'document.getElementById('player').style')
+[ERROR - 2014-01-20T10:32:29.668Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://videos.desihome.info/stream/barfi/part6.php' - Console Error (stack): [
+  {
+    "file": "http://www.sockshare.com/embed/&404",
+    "line": 39,
+    "function": "setHeight"
+  },
+  {
+    "file": "http://www.sockshare.com/embed/&404",
+    "line": 57,
+    "function": "onload"
+  }
+]
+[ERROR - 2014-01-20T10:32:38.561Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213958539
+[ERROR - 2014-01-20T10:32:39.512Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213959490
+[ERROR - 2014-01-20T10:32:40.448Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213960423
+[ERROR - 2014-01-20T10:32:41.381Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213961359
+[ERROR - 2014-01-20T10:32:47.880Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://videos.desihome.info/stream/barfi/part5.php' - Console Error (msg): TypeError: 'null' is not an object (evaluating 'document.getElementById('player').style')
+[ERROR - 2014-01-20T10:32:47.880Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://videos.desihome.info/stream/barfi/part5.php' - Console Error (stack): [
+  {
+    "file": "http://www.sockshare.com/embed/&404",
+    "line": 39,
+    "function": "setHeight"
+  },
+  {
+    "file": "http://www.sockshare.com/embed/&404",
+    "line": 57,
+    "function": "onload"
+  }
+]
+[ERROR - 2014-01-20T10:32:51.430Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213971409
+[ERROR - 2014-01-20T10:32:52.323Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213972308
+[ERROR - 2014-01-20T10:32:53.240Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213973219
+[ERROR - 2014-01-20T10:32:54.138Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213974115
+[ERROR - 2014-01-20T10:33:09.371Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390213989349
+[ERROR - 2014-01-20T10:33:28.395Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214008374
+[ERROR - 2014-01-20T10:34:08.086Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214048066
+[ERROR - 2014-01-20T10:34:21.786Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214061767
+[ERROR - 2014-01-20T10:34:31.921Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214071895
+[ERROR - 2014-01-20T10:34:34.582Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214074557
+[ERROR - 2014-01-20T10:34:47.640Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214087621
+[ERROR - 2014-01-20T10:34:53.118Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214093099
+[ERROR - 2014-01-20T10:35:56.858Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214156830
+[ERROR - 2014-01-20T10:35:59.861Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214159832
+[ERROR - 2014-01-20T10:36:02.642Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214162614
+[ERROR - 2014-01-20T10:36:06.166Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214166140
+[ERROR - 2014-01-20T10:36:13.472Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214173445
+[ERROR - 2014-01-20T10:36:19.175Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214179148
+[ERROR - 2014-01-20T10:36:21.957Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214181932
+[ERROR - 2014-01-20T10:36:24.745Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214184724
+[ERROR - 2014-01-20T10:36:27.623Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214187589
+[ERROR - 2014-01-20T10:36:30.333Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214190301
+[ERROR - 2014-01-20T10:36:34.089Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214194061
+[ERROR - 2014-01-20T10:36:37.437Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214197418
+[ERROR - 2014-01-20T10:36:41.964Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214201940
+[ERROR - 2014-01-20T10:36:46.525Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214206492
+[ERROR - 2014-01-20T10:36:49.270Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214209247
+[ERROR - 2014-01-20T10:36:51.157Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214211138
+[ERROR - 2014-01-20T10:36:53.614Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214213587
+[ERROR - 2014-01-20T10:36:56.960Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214216937
+[INFO  - 2014-01-20T10:36:59.042Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2014-01-20T10:36:59.846Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214219819
+[ERROR - 2014-01-20T10:37:02.749Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214222720
+[ERROR - 2014-01-20T10:37:05.229Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214225209
+[ERROR - 2014-01-20T10:37:07.997Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214227966
+[ERROR - 2014-01-20T10:37:09.441Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214229415
+[ERROR - 2014-01-20T10:37:10.330Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214230310
+[ERROR - 2014-01-20T10:37:11.249Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214231235
+[ERROR - 2014-01-20T10:37:12.171Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214232157
+[ERROR - 2014-01-20T10:37:21.949Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/26542/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:37:21.949Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/26542/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:37:24.136Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214244110
+[ERROR - 2014-01-20T10:37:30.787Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214250754
+[ERROR - 2014-01-20T10:37:32.284Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214252258
+[ERROR - 2014-01-20T10:37:33.195Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214253181
+[ERROR - 2014-01-20T10:37:34.125Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214254105
+[ERROR - 2014-01-20T10:37:35.050Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214255026
+[ERROR - 2014-01-20T10:37:36.774Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214256751
+[ERROR - 2014-01-20T10:37:37.697Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214257667
+[ERROR - 2014-01-20T10:37:38.628Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214258599
+[ERROR - 2014-01-20T10:37:39.559Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214259534
+[ERROR - 2014-01-20T10:37:41.803Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214261767
+[ERROR - 2014-01-20T10:37:42.716Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214262692
+[ERROR - 2014-01-20T10:37:43.639Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214263613
+[ERROR - 2014-01-20T10:37:44.569Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214264537
+[ERROR - 2014-01-20T10:37:48.131Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214268103
+[ERROR - 2014-01-20T10:37:49.062Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214269035
+[ERROR - 2014-01-20T10:37:49.992Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214269969
+[ERROR - 2014-01-20T10:37:50.926Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214270907
+[ERROR - 2014-01-20T10:37:57.356Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214277328
+[ERROR - 2014-01-20T10:38:08.555Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214288531
+[ERROR - 2014-01-20T10:38:19.607Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214299581
+[ERROR - 2014-01-20T10:38:20.537Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214300509
+[ERROR - 2014-01-20T10:38:21.469Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214301440
+[ERROR - 2014-01-20T10:38:22.399Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214302372
+[ERROR - 2014-01-20T10:38:25.832Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214305810
+[ERROR - 2014-01-20T10:38:29.467Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214309439
+[ERROR - 2014-01-20T10:38:32.363Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214312342
+[ERROR - 2014-01-20T10:38:34.253Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214314224
+[ERROR - 2014-01-20T10:38:36.898Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214316873
+[ERROR - 2014-01-20T10:38:42.869Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214322847
+[ERROR - 2014-01-20T10:38:43.797Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214323770
+[ERROR - 2014-01-20T10:38:44.737Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214324706
+[ERROR - 2014-01-20T10:38:45.659Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214325644
+[ERROR - 2014-01-20T10:38:48.491Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214328463
+[ERROR - 2014-01-20T10:38:51.080Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214331055
+[ERROR - 2014-01-20T10:38:54.041Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214334012
+[ERROR - 2014-01-20T10:38:57.816Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214337788
+[ERROR - 2014-01-20T10:38:58.729Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214338710
+[ERROR - 2014-01-20T10:38:59.649Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214339630
+[ERROR - 2014-01-20T10:39:00.571Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214340545
+[ERROR - 2014-01-20T10:39:05.687Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214345661
+[ERROR - 2014-01-20T10:39:14.817Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214354780
+[ERROR - 2014-01-20T10:39:15.782Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214355753
+[ERROR - 2014-01-20T10:39:16.739Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214356708
+[ERROR - 2014-01-20T10:39:17.672Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214357646
+[ERROR - 2014-01-20T10:39:31.999Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214371980
+[ERROR - 2014-01-20T10:39:34.874Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/137365/' - Console Error (msg): SyntaxError: Parse error
+[ERROR - 2014-01-20T10:39:34.874Z] Session [9a0c62d0-81ba-11e3-aece-37b10ff0f014] - Page at 'http://www.filmshowonline.net/videos/137365/' - Console Error (stack): []
+[ERROR - 2014-01-20T10:39:45.775Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214385756
+[ERROR - 2014-01-20T10:39:48.643Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214388623
+[ERROR - 2014-01-20T10:39:56.518Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214396503
+[ERROR - 2014-01-20T10:40:03.001Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214402973
+[ERROR - 2014-01-20T10:40:06.085Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214406062
+[ERROR - 2014-01-20T10:40:08.555Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214408529
+[ERROR - 2014-01-20T10:40:12.325Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214412298
+[ERROR - 2014-01-20T10:40:15.330Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214415303
+[ERROR - 2014-01-20T10:40:18.117Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214418096
+[ERROR - 2014-01-20T10:40:21.014Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1390214420982

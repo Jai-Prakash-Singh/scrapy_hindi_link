@@ -15,6 +15,6 @@ NEWSPIDER_MODULE = 'director.spiders'
 #USER_AGENT = 'director (+http://www.yourdomain.com)'
 
 
-DOWNLOADER_MIDDLEWARES = { 'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 1, 
-                            #'director.proxy_handler.RandomProxy': 2
-                          }
+DOWNLOADER_MIDDLEWARES = {'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 110,
+                          'director.proxy_middle.ProxyMiddleware': 120,
+                         }
